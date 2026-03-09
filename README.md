@@ -2,7 +2,7 @@
 
 - The game challenges players to remember and repeat an increasing sequence of colors. With each level, the sequence becomes longer, making the game more challenging and engaging.
 
-## ⛏️ Technologies Used
+##  Technologies Used
 
 - HTML5 – Structure of the game
 
